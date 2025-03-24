@@ -36,3 +36,4 @@ greet("홍길동")
 [Google로 가기](https://www.google.co.kr/, "Google로 가기")
 
 귀여운 고양이 이미지: 
+![멋진 고양이](./assets/화면%20캡처%202025-03-24%20223827.png)
